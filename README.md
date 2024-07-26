@@ -5,7 +5,7 @@
 - ⚡ Current Project: Making a Website 
 - ⚡ Fun fact: I started coding in near the end of 2023
 - 📫 Reach me in Discord: 1003676575172137010 / bajahitam
-- 🏫 School Project Account (if there's any project) --> @SatriaAdiguna
+- 🏫 School Project Account (if there's any project) --> <a href="https://github.com/SatriaAdiguna">@SatriaAdiguna</a>
 - 😅 Too Lazy or Busy for coding
 <details> <summary>Find Me in</summary>
   <a href="https://www.instagram.com/bajahitamu69/"> <img width=5%  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a>
