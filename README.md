@@ -15,3 +15,4 @@
   <a href="https://open.spotify.com/user/ztdmdlicmba8o584382y8rgi7"> <img width=5%  src="https://static-00.iconduck.com/assets.00/spotify-icon-1024x1024-7zm2z9zz.png"></a>
 </details>
 
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ztdmdlicmba8o584382y8rgi7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
