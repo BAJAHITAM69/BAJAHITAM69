@@ -1,6 +1,6 @@
 <h1 align="center" >こんにちは! 私の名前は　ばじゃひたむです </h1>
 <h2 align="center">Hello！My Name is Bajahitam</h2>
-<a href="https://discord.com/users/1003676575172137010"> <img witdh=200% align="right" src="https://lanyard.cnrad.dev/api/1003676575172137010?hideStatus=true&showDisplayName=true&borderRadius=50px&bg=241645"></a>
+<a href="https://discord.com/users/1003676575172137010"> <img witdh=200% align="right" src="https://lanyard.cnrad.dev/api/1003676575172137010?showDisplayName=true&borderRadius=50px&bg=241645"></a>
 
 - ⚡ Current Project: Making a Website 
 - ⚡ Fun fact: I started coding in near the end of 2023
