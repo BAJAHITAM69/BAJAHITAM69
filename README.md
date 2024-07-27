@@ -24,10 +24,10 @@
  <summary align="right">MyAnimelist Watching</summary>
   <!-- MAL_ANIMEWATCHING:GRID_END -->
 </details>
-  <!-- MAL_ANIMECOMPLETED:GRID -->
+  <!-- MAL_ANIMEPTW:GRID -->
 <details>
  <summary align="right">MyAnimelist Plan To Watch</summary>
-  <!-- MAL_ANIMECOMPLETED:GRID_END -->
+  <!-- MAL_ANIMEPTW:GRID_END -->
 </details>
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ztdmdlicmba8o584382y8rgi7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
