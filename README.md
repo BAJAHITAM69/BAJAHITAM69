@@ -4,7 +4,7 @@
 
 - ⚡ Current Project: Making a Website 
 - ⚡ Fun fact: I started coding in near the end of 2023
-- 📫 Reach me in Discord: 1003676575172137010 / bajahitam
+- 📫 Reach me in Discord: 1003676575172137010 / @bajahitam
 - 🏫 School Project Account (if there's any project) --> <a href="https://github.com/SatriaAdiguna">@SatriaAdiguna</a>
 - 😅 Too Lazy or Busy for coding
  <summary>Find Me in</summary>
@@ -14,7 +14,20 @@
   <a href="https://myanimelist.net/profile/NOTAWEEB25"> <img width=5%  src="https://img.utdstc.com/icon/883/dd7/883dd7e9516b18ff5e08a75c91a45ab71c41f15c006b8b94aa37ab73f7c8dcdf:200"></a>
   <a href="https://open.spotify.com/user/ztdmdlicmba8o584382y8rgi7"> <img width=5%  src="https://static-00.iconduck.com/assets.00/spotify-icon-1024x1024-7zm2z9zz.png"></a>
 
-<img width=40% align="right"  src="https://media.tenor.com/pqA-K8uaHQMAAAAM/yuru-camp-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3.gif">
-
+  <!-- MAL_ANIMECOMPLETED:GRID -->
+<details>
+ <summary align="right">MyAnimelist Completed</summary>
+  <!-- MAL_ANIMECOMPLETED:GRID_END -->
+</details>
+  <!-- MAL_ANIMEWATCHING:GRID -->
+<details>
+ <summary align="right">MyAnimelist Watching</summary>
+  <!-- MAL_ANIMEWATCHING:GRID_END -->
+</details>
+  <!-- MAL_ANIMECOMPLETED:GRID -->
+<details>
+ <summary align="right">MyAnimelist Plan To Watch</summary>
+  <!-- MAL_ANIMECOMPLETED:GRID_END -->
+</details>
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ztdmdlicmba8o584382y8rgi7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
