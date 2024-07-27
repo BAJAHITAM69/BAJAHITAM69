@@ -30,4 +30,4 @@
 <!-- MAL_ANIMEPTW:GRID_END -->
 </details>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ztdmdlicmba8o584382y8rgi7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
+<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ztdmdlicmba8o584382y8rgi7&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true">
