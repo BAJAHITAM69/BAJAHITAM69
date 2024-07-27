@@ -16,17 +16,17 @@
 
   <!-- MAL_ANIMECOMPLETED:GRID -->
 <details>
- <summary align="right">MyAnimelist Completed</summary>
+ 
  <!-- MAL_ANIMECOMPLETED:GRID_END -->
 </details>
   <!-- MAL_ANIMEWATCHING:GRID -->
 <details>
- <summary align="right">MyAnimelist Watching</summary>
+ 
 <!-- MAL_ANIMEWATCHING:GRID_END -->
 </details>
   <!-- MAL_ANIMEPTW:GRID -->
 <details>
- <summary align="right">MyAnimelist Plan To Watch</summary>
+ 
  <!-- MAL_ANIMEPTW:GRID_END -->
 </details>
 
